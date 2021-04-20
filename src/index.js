@@ -4,7 +4,7 @@ module.exports = function () {
     };
   
     this.multiply = function (a, b) {
-      return a / b;
+      return a * b;
     };
   
     this.fibonacci = function (length) {
